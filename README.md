@@ -34,7 +34,7 @@ The dashboard visualizes:
 ---
 
 ## 📁 Repository Structure
-
+```
 recycling-candidate-ranking/
 ├── frontend/              # React + Vite dashboard
 ├── database/              # SQL schema and seed data
@@ -42,7 +42,7 @@ recycling-candidate-ranking/
 ├── ai-prompts/            # AI evaluation prompts
 ├── screenshots/           # Dashboard screenshots
 └── README.md
-
+```
 
 ---
 
